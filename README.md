@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at DataOn Systems in tech support
 - 📱  I’m currently learning Kotlin
 - 💻 I’m currently learning UX Desing in Coursera (Google)
-- 📚 I'm in constant learning
+- 📚 I'm in constant learning.
 
 ### Ferramentas e Tecnologias
 
