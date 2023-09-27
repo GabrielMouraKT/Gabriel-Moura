@@ -5,7 +5,7 @@
 - ✌️ Easy adaptation
 
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 
 
 
@@ -27,7 +27,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMouraKT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contatos:
+### Contacts:
 
 <div>
 <a href="https://www.instagram.com/cronuzbrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
