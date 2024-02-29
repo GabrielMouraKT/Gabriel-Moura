@@ -1,5 +1,5 @@
 ### <h1>👋 Welcome to my Profile </h1> 
-- 📱  I’m currently learning Kotlin, Flutter
+- 📱  I’m currently learning .Net/C#
 - 💻 I’m currently learning UX Desing in Coursera (Google)
 - 📚 I'm in constant learning.
 - ✌️ Easy adaptation
